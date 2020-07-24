@@ -1,6 +1,6 @@
 # typescript-express-node
 
-This is a project seed for creating Typescript projects that use express with handlebars and run on NodeJS
+This is a project seed for creating TypeScript projects that use Express with Handlebars and run on NodeJS
 
 
 ## Setup
